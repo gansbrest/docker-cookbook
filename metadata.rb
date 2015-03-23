@@ -5,4 +5,4 @@ description      "Installs/Configures docker"
 
 version          "0.3"
 
-depends			 "apt", "<= 1.7.0"
+depends			 "apt"
